@@ -11,8 +11,8 @@
     },
     {
       "type": "dependency",
-      "name": "functional-test",
-      "pipeline": "functional-test",
+      "name": "functional-testing",
+      "pipeline": "functional-testing",
       "stage": "test"
     }
   ],
