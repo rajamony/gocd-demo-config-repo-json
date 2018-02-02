@@ -1,7 +1,7 @@
 {
-  "name": "deploy",
+  "name": "deployment",
   "environment_variables": [],
-  "group" : "rajamony",
+  "group" : "rajamony-v0",
   "materials": [
     {
       "type": "dependency",
@@ -18,14 +18,14 @@
   ],
   "stages": [
     {
-      "name": "deploy",
+      "name": "deployment",
       "fetch_materials": true,
       "never_cleanup_artifacts": false,
       "clean_working_directory": false,
       "environment_variables": [],
       "jobs": [
         {
-          "name": "deploy",
+          "name": "deployment",
           "environment_variables": [],
           "tabs": [],
           "resources": [],
