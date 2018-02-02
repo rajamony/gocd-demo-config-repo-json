@@ -1,5 +1,5 @@
 {
-  "name": "deployment",
+  "name": "deploy",
   "environment_variables": [],
   "group" : "rajamony-v0",
   "materials": [
