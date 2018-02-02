@@ -1,7 +1,7 @@
 {
   "name": "deploy",
   "environment_variables": [],
-  "group" : "demo",
+  "group" : "rajamony",
   "materials": [
     {
       "type": "dependency",
